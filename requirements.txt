@@ -1,0 +1,9 @@
+huggingface_hub==0.24.3
+accelerate
+#torch
+transformers==4.41.2
+sentencepiece
+tqdm
+numpy
+surrealist
+boto3==1.34.86
